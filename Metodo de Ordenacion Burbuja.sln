@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo de Ordenacion Burbuja", "Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja.csproj", "{BDA2E181-F986-49BE-BC9A-9BE7ED3EBD1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA2E181-F986-49BE-BC9A-9BE7ED3EBD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA2E181-F986-49BE-BC9A-9BE7ED3EBD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA2E181-F986-49BE-BC9A-9BE7ED3EBD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA2E181-F986-49BE-BC9A-9BE7ED3EBD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15622003-AA25-40EE-A88F-D3A5E41E6C10}
+	EndGlobalSection
+EndGlobal

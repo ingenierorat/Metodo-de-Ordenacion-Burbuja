@@ -1,0 +1,8 @@
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\obj\Debug\Metodo de Ordenacion Burbuja.csproj.AssemblyReference.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\obj\Debug\Metodo de Ordenacion Burbuja.csproj.SuggestedBindingRedirects.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\obj\Debug\Metodo de Ordenacion Burbuja.csproj.CoreCompileInputs.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\bin\Debug\Metodo de Ordenacion Burbuja.exe.config
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\bin\Debug\Metodo de Ordenacion Burbuja.exe
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\bin\Debug\Metodo de Ordenacion Burbuja.pdb
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\obj\Debug\Metodo de Ordenacion Burbuja.exe
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\Metodo de Ordenacion Burbuja\Metodo de Ordenacion Burbuja\obj\Debug\Metodo de Ordenacion Burbuja.pdb
